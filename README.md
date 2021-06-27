@@ -1,4 +1,4 @@
-# [Game Design Document](https://github.com/Koolkev246/gsmst-LetsSurf/blob/master/Game%20Design%20Document.pdf)
+# [Game Design Document](Game Design Document.pdf)
 
 Kevin Kwan
 10/30/2020
