@@ -1,4 +1,4 @@
-# [Game Design Document] (./Game Design Document.pdf)
+# [Game Design Document](./Game Design Document.pdf)
 
 Kevin Kwan
 10/30/2020
