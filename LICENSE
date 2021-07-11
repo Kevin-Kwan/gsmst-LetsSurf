@@ -1,21 +1,38 @@
-MIT License
+Copyright (C) 2021 Koolkev246 - All Rights Reserved
+Unauthorized copying, manipulation, and distribution of these files and resources, via any medium, is strictly prohibited.
+These files are proprietary and confidential.
+This is version 1.0.1 of Koolkev246's Private License.
 
-Copyright (c) 2019 Sebastian Lague
+Unless given personal, specified permission by Kevin "Koolkev246" regarding the following terms, these files MAY NOT be: (not limited to the following)
+* Used, copied, or reproduced freely in unlimited quantities.
+* Distributed to third-parties freely in unlimited quantities.
+* Modified and/or combined with other works and create derivatives.
+* Licensed, including possible modifications.
+* Used for commercial purpose or to be licensed for a fee.
+* Used to practice patent claims of the software owner and of the contributors to the code.
+* Used for additional warranty, services or rights on the software licensed.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+If special, personal permissions are granted to the user(s) by Koolkev246, the user/recipient(s) must abide to the following:
+* Describe the original copyright and retain attribution marks
+* In case a fee (i.e. contribution, lump sum) is requested from recipients, it cannot be royalties (depending on the use)
+* Source code modifications (author, why, beginning, end) must be documented
+* Original source must be withheld
+* In case of (re-) distribution of the work or its derivatives, the same licence must be used/granted: no re-licensing.
+* While the work itself is copyleft, derivatives produced by the normal use of the work are not and could be covered by any other licence 
+* Include the full text of this current licence in the modified software
+* No recipient may charge the software owner or contributors for direct or indirect damages
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The following Laws may apply whenever possible:
+* US law
+* Licensor's law
+* Other Laws
+
+Last, but not least:
+For software, this makes the licence and files within this repository somewhat "non-open-source".
+The software or work (i.e. the text of a regulation, of a court decision) is licensed "as is" and (re-) distributions cannot be modified.
+The use of the work is restricted based on matter/ethical conditions (i.e. not for nuclear industry, weapons,  genetic etc.).
+The use of the work is restricted to a specific category of users.
+Recipient re-distributing the work are not "licensors."
+
+Written by Kevin "Koolkev246" <Koolkev246@gmail.com>, 2021
